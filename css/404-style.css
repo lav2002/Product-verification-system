@@ -1,0 +1,21 @@
+.blackhole {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 0;
+  }
+  
+  body {
+    
+    background: url("https://raw.githubusercontent.com/glennbacon/glennbacon.github.io/master/img/blackhole.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: block;
+  }
+  
+  canvas {
+    display: block;
+  }
+  
